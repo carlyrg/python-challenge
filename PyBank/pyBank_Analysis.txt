@@ -1,0 +1,7 @@
+total months: 41
+total revenue: 18971412
+average difference: -6758.975
+max difference: 1837235.0
+Feb-16
+minimum difference: -1779747.0
+Aug-14
